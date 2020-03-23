@@ -3,7 +3,7 @@
 https://1drv.ms/u/s!AiFVLPRBePKonahnPdgV6-faJQInzA?e=6JKdPy \
 **Account** \
 username: haumqce130436 \
-password: hau123456 \
+password: hau123456 
 ## Phân công: 
 ### Funtional Testing:
 #### Admin page Testing:
