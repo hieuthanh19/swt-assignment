@@ -16,7 +16,7 @@ password: hau123456
 - Comment table (RUD): MAnh
 - Place table (R): UMy
 #### User page
-- Comment on Posts: HThanh
+- Comment on Posts: MAnh
 ### Security Test 
 - HThanh
 ### Facility Test: 
