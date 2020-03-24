@@ -7,12 +7,16 @@ username: haumqce130436 \
 password: hau123456 
 ## Phân công: 
 ### Funtional Testing:
-#### Admin page Testing:
+#### Admin page :
+**Notes:** C: Create, R: Read, U: Update, D: Delete, S: search \
 **Table cần test + (Chức năng có thể test được, những cái khác cho fail từ bước đầu)** 
-- User table (CRUD): HThanh
+- Log In/ Log out: HThanh
+- User table (CRUDS): HThanh
 - Post table (R): UMy 
 - Comment table (RUD): MAnh
 - Place table (R): UMy
+#### User page
+- Comment on Posts: HThanh
 ### Security Test 
 - HThanh
 ### Facility Test: 
