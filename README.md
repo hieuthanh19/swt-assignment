@@ -1,8 +1,8 @@
 # SWT Assignment - Wonderful VN 
 **Link project** \
-https://1drv.ms/u/s!AiFVLPRBePKonahnPdgV6-faJQInzA?e=6JKdPy \
+https://1drv.ms/u/s!AiFVLPRBePKonahnPdgV6-faJQInzA?e=6JKdPy 
 
-**Account** \
+**Log in Account** \
 username: haumqce130436 \
 password: hau123456 
 ## Phân công: 
@@ -24,6 +24,6 @@ password: hau123456
 ### Usability Test:
 - UMy
 ### Configuration Test:
-- UMy (khỏi làm, để cho có phân công)
+- UMy 
 ### Acceptance Test: 
 - MAnh
