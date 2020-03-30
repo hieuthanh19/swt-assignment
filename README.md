@@ -20,9 +20,9 @@ password: hau123456
 ### Security Test 
 - HThanh (hoàn thành)
 ### Facility Test: 
-- UMy  (hoàn thành)
+- TBang  (hoàn thành)
 ### Usability Test:
-- TBang (hoàn thành)
+- UMy (hoàn thành)
 ### Configuration Test:
 - UMy  (hoàn thành)
 ### Acceptance Test: 
