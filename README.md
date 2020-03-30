@@ -14,13 +14,13 @@ password: hau123456
 - User table (CRUDS): HThanh (hoàn thành)
 - Post table (R): UMy  (hoàn thành)
 - Comment table (RUD): MAnh (hoàn thành)
-- Place table (R): TBang (hoàn thành)
+- Place table (R): UMy (hoàn thành)
 #### User page
 - Comment on Posts: MAnh (hoàn thành)
 ### Security Test 
 - HThanh (hoàn thành)
 ### Facility Test: 
-- TBang  (hoàn thành)
+- UMy  (hoàn thành)
 ### Usability Test:
 - UMy (hoàn thành)
 ### Configuration Test:
