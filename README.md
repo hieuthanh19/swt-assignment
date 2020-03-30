@@ -14,7 +14,7 @@ password: hau123456
 - User table (CRUDS): HThanh (hoàn thành)
 - Post table (R): UMy  (hoàn thành)
 - Comment table (RUD): MAnh (hoàn thành)
-- Place table (R): UMy (hoàn thành)
+- Place table (R): TBang (hoàn thành)
 #### User page
 - Comment on Posts: MAnh (hoàn thành)
 ### Security Test 
@@ -22,7 +22,7 @@ password: hau123456
 ### Facility Test: 
 - UMy  (hoàn thành)
 ### Usability Test:
-- UMy (hoàn thành)
+- TBang (hoàn thành)
 ### Configuration Test:
 - UMy  (hoàn thành)
 ### Acceptance Test: 
